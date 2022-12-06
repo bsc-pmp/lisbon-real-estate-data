@@ -1,6 +1,6 @@
 # lisbon-real-estate-data
 
-The python script ```pt_re_spider.py``` is a scraper of Portuguese real estate website [casa.sapo.pt](https://casa.sapo.pt/) , written in Python Selenium. 
+The python script ```pt_re_spider.py``` is a scraper of Portuguese real estate website [casa.sapo.pt](https://casa.sapo.pt/), implemented in Python with Selenium. 
 It extract data and save it to a excel CSV file.  
 
 The scraped data is in Portuguese and contains the following fields:
